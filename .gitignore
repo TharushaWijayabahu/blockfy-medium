@@ -2,7 +2,7 @@ node_modules/
 dist/
 
 src/server/db/test-db-data.json
-
+package-lock.json
 
 .DS_STORE
 node_modules
